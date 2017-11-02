@@ -30,6 +30,15 @@ Firebase samples
 
 ### Create the first website
 
+- Start Firebase Tool
+- Run the commands
+
+```
+  firebase init
+  firebase serve //local server
+  firebase deploy
+```
+
 References
 
 - https://firebase.google.com/docs/hosting/quickstart?hl=es-419
