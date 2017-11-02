@@ -1,6 +1,9 @@
 # firebase-samples
 Firebase samples
 
+## Firebase Hosting
+
+### Configure custom domain
 - Create a proyect in Firebase console
 - Install firebase tools 
 
@@ -24,6 +27,8 @@ Firebase samples
 - Configure domain with WWW . Example "www.gdglima.com" an then selected "redirect to gdglima.com"
 
 - Added register type A
+
+### Create the first website
 
 References
 
