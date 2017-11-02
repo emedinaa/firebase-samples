@@ -4,7 +4,7 @@ Firebase samples
 ## Firebase Hosting
 
 ### Configure custom domain
-- Create a proyect in Firebase console
+- Create a project in Firebase console
 - Install firebase tools 
 
   ```
@@ -18,7 +18,7 @@ Firebase samples
     firebase init
     firebase deploy
   ```
-- Selected " connect domain "
+- Selected the option " connect domain "
 
 - Added register type TXT to Domain manager
 
@@ -38,7 +38,7 @@ Firebase samples
   firebase serve //local server
   firebase deploy
 ```
-- Open in browser
+- Open it in browser
 
 ```
   http://localhost:5000/
