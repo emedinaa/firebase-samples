@@ -38,6 +38,11 @@ Firebase samples
   firebase serve //local server
   firebase deploy
 ```
+- Open in browser
+
+```
+  http://localhost:5000/
+```
 
 References
 
